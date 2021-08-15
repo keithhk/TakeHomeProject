@@ -13,3 +13,4 @@ java -jar CronParserRunnable.jar "*/15 0 1,15 * 1-5 /usr/bin/find"
 Please change the input string as needed.
 
 
+To make enhancements on the cron parser, please download DeliverooCron folder and the files within to develope further on the project.
